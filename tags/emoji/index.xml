@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Pressynou - Blog</title>
-    <link>https://blog.pressynou.ch/tags/</link>
-    <description>Recent content in Tags on Pressynou - Blog</description>
+    <title>emoji on Pressynou - Blog</title>
+    <link>https://blog.pressynou.ch/tags/emoji/</link>
+    <description>Recent content in emoji on Pressynou - Blog</description>
     <image>
       <url>https://blog.pressynou.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.pressynou.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.pressynou.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.pressynou.ch/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>emoji</title>
-      <link>https://blog.pressynou.ch/tags/emoji/</link>
+      <title>Emoji Support</title>
+      <link>https://blog.pressynou.ch/post/owo/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.pressynou.ch/tags/emoji/</guid>
-      <description></description>
+      <guid>https://blog.pressynou.ch/post/owo/</guid>
+      <description>Guide to emoji usage in Hugo</description>
     </item>
     
   </channel>
