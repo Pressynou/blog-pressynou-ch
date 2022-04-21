@@ -102,23 +102,20 @@ menu:
         - identifier: Pressynou.ch
           name: Pressynou.ch
           url: https://pressynou.ch
-          weight: 10
+          weight: 5
         - identifier: Docs
           name: Docs
           url: https://docs.pressynou.ch
           weight: 10
-        - identifier: categories
-          name: categories
+        - identifier: Categories
+          name: Categories
           url: /categories/
-          weight: 10
-        - identifier: tags
-          name: tags
+          weight: 15
+        - identifier: Tags
+          name: Tags
           url: /tags/
           weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
-          weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
