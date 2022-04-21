@@ -73,19 +73,9 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+          url: "https://twitter.com/Pressynou"
         - name: github
-          url: "https://github.com/"
-
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
+          url: "https://github.com/Pressynou"
 
     cover:
         hidden: true # hide everywhere but not in structured data
@@ -93,8 +83,8 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
-        Text: "Suggest Changes" # edit text
+        URL: "https://github.com/Pressynou/blog-pressynou-ch/content"
+        Text: "Des idées? Des modifications?" # edit text
         appendFilePath: true # to append file path to Edit link
 
     # for search
@@ -109,6 +99,14 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - identifier: Pressynou.ch
+          name: Pressynou.ch
+          url: https://pressynou.ch
+          weight: 10
+        - identifier: Docs
+          name: Docs
+          url: https://docs.pressynou.ch
+          weight: 10
         - identifier: categories
           name: categories
           url: /categories/
