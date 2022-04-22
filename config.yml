@@ -105,7 +105,7 @@ menu:
           weight: 5
         - identifier: Docs
           name: Docs
-          url: https://docs.pressynou.ch
+          url: https://docs.pressynou.ch/docs/intro
           weight: 10
         - identifier: Categories
           name: Categories
